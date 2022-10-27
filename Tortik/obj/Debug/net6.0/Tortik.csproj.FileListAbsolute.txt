@@ -1,0 +1,15 @@
+C:\Users\Петрушка\source\repos\Tortik\Tortik\bin\Debug\net6.0\Tortik.exe
+C:\Users\Петрушка\source\repos\Tortik\Tortik\bin\Debug\net6.0\Tortik.deps.json
+C:\Users\Петрушка\source\repos\Tortik\Tortik\bin\Debug\net6.0\Tortik.runtimeconfig.json
+C:\Users\Петрушка\source\repos\Tortik\Tortik\bin\Debug\net6.0\Tortik.dll
+C:\Users\Петрушка\source\repos\Tortik\Tortik\bin\Debug\net6.0\Tortik.pdb
+C:\Users\Петрушка\source\repos\Tortik\Tortik\obj\Debug\net6.0\Tortik.csproj.AssemblyReference.cache
+C:\Users\Петрушка\source\repos\Tortik\Tortik\obj\Debug\net6.0\Tortik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Петрушка\source\repos\Tortik\Tortik\obj\Debug\net6.0\Tortik.AssemblyInfoInputs.cache
+C:\Users\Петрушка\source\repos\Tortik\Tortik\obj\Debug\net6.0\Tortik.AssemblyInfo.cs
+C:\Users\Петрушка\source\repos\Tortik\Tortik\obj\Debug\net6.0\Tortik.csproj.CoreCompileInputs.cache
+C:\Users\Петрушка\source\repos\Tortik\Tortik\obj\Debug\net6.0\Tortik.dll
+C:\Users\Петрушка\source\repos\Tortik\Tortik\obj\Debug\net6.0\refint\Tortik.dll
+C:\Users\Петрушка\source\repos\Tortik\Tortik\obj\Debug\net6.0\Tortik.pdb
+C:\Users\Петрушка\source\repos\Tortik\Tortik\obj\Debug\net6.0\Tortik.genruntimeconfig.cache
+C:\Users\Петрушка\source\repos\Tortik\Tortik\obj\Debug\net6.0\ref\Tortik.dll
